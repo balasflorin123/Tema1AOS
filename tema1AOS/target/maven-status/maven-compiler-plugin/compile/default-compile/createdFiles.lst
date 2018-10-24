@@ -1,0 +1,3 @@
+com\facultate\aos\impl\PersonImpl.class
+com\facultate\aos\view\PersonView.class
+com\facultate\aos\entities\PersonEntity.class
